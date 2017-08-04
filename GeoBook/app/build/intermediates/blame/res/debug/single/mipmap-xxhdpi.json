@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_right.png",
+        "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_left.png",
+        "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_appicon.png",
+        "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_down.png",
+        "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

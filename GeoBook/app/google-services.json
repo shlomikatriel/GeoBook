@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978453221493",
+    "firebase_url": "https://geobook-fc34d.firebaseio.com",
+    "project_id": "geobook-fc34d",
+    "storage_bucket": "geobook-fc34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978453221493:android:b20327167cd13e7e",
+        "android_client_info": {
+          "package_name": "com.katriel.geobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978453221493-jbuhcgt905mtn3mf8q717b0eggoape6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.katriel.geobook",
+            "certificate_hash": "c5449e684d5f07d5cac986fbac0de4ed8e09998b"
+          }
+        },
+        {
+          "client_id": "978453221493-pjbp0rdnp1mf9m9dcl2fek99n159m8dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBodekZFa-YC7KXGav4dXHib5Z32eE5x0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978453221493-pjbp0rdnp1mf9m9dcl2fek99n159m8dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

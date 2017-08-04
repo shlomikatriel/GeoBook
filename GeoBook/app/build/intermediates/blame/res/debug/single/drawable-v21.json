@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\94ea49317c4448082ef4ee92c2664fc8526d5ee6\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\94ea49317c4448082ef4ee92c2664fc8526d5ee6\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\94ea49317c4448082ef4ee92c2664fc8526d5ee6\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\94ea49317c4448082ef4ee92c2664fc8526d5ee6\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

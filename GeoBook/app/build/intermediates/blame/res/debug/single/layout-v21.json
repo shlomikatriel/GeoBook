@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
