@@ -109,30 +109,30 @@
       </file>
       <file leaf-file-name="activity_registration.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="FriendsActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/FriendsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1152">
+            <state relative-caret-position="1275">
               <caret line="290" column="13" selection-start-line="290" selection-start-column="13" selection-end-line="290" selection-end-column="13" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="method#onCreate#0;class#FriendsActivity#0" expanded="false" />
                 <element signature="method#initializeVariables#0;class#FriendsActivity#0" expanded="false" />
                 <element signature="method#initializeListeners#0;class#FriendsActivity#0" expanded="false" />
                 <element signature="method#createFriendList#0;class#FriendsActivity#0" expanded="false" />
                 <element signature="e#4873#4891#0" expanded="false" />
                 <element signature="method#createFriendRequestsList#0;class#FriendsActivity#0" expanded="false" />
-                <element signature="e#9835#10803#0" expanded="true" />
                 <element signature="method#getUserDetailsFrame#0;class#FriendsActivity#0" expanded="false" />
               </folding>
             </state>
@@ -145,7 +145,6 @@
             <state relative-caret-position="187">
               <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
               <folding>
-                <element signature="imports" expanded="false" />
                 <element signature="method#getRemoveFriendButtonListener#0;class#ListenerFactory#0" expanded="false" />
                 <element signature="method#getAddOrRemoveFriendDbEventListener#0;class#ListenerFactory#0" expanded="false" />
                 <element signature="method#onCancelled#0;class#1244:2241" expanded="false" />
@@ -163,16 +162,6 @@
               <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
               <folding>
                 <element signature="method#Post#0;class#Post#0" expanded="false" />
-                <element signature="e#398#399#0" expanded="false" />
-                <element signature="e#415#416#0" expanded="false" />
-                <element signature="e#446#447#0" expanded="false" />
-                <element signature="e#469#470#0" expanded="false" />
-                <element signature="e#500#501#0" expanded="false" />
-                <element signature="e#521#522#0" expanded="false" />
-                <element signature="e#548#549#0" expanded="false" />
-                <element signature="e#565#566#0" expanded="false" />
-                <element signature="e#592#593#0" expanded="false" />
-                <element signature="e#609#610#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -183,11 +172,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1003">
               <caret line="74" column="58" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1162#1163#0" expanded="false" />
-                <element signature="e#1194#1195#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,19 +180,21 @@
       <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/bl/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="663">
               <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="false" />
                 <element signature="method#enableImmersiveMode#0;class#Utils#0" expanded="false" />
-                <element signature="e#1546#1738#0" expanded="false" />
-                <element signature="e#1737#1738#0" expanded="false" />
                 <element signature="method#setLinearLayoutParam#0;class#Utils#0" expanded="false" />
                 <element signature="method#setLinearLayoutParam#1;class#Utils#0" expanded="false" />
                 <element signature="method#showToast#0;class#Utils#0" expanded="false" />
                 <element signature="method#showToast#1;class#Utils#0" expanded="false" />
                 <element signature="method#syncOnTaskCompletion#0;class#Utils#0" expanded="false" />
                 <element signature="method#syncOnTaskCompletion#1;class#Utils#0" expanded="false" />
+                <element signature="e#6489#6490#0" expanded="false" />
+                <element signature="e#6526#6527#0" expanded="false" />
+                <element signature="e#6571#6572#0" expanded="false" />
+                <element signature="e#6608#6609#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -229,15 +216,10 @@
             <state relative-caret-position="561">
               <caret line="120" column="66" selection-start-line="120" selection-start-column="66" selection-end-line="120" selection-end-column="66" />
               <folding>
-                <element signature="imports" expanded="false" />
                 <element signature="method#onCreate#0;class#MapsActivity#0" expanded="false" />
                 <element signature="method#onRequestPermissionsResult#0;class#MapsActivity#0" expanded="false" />
-                <element signature="e#3656#3657#0" expanded="false" />
-                <element signature="e#3681#3682#0" expanded="false" />
                 <element signature="method#drawMap#1;class#MapsActivity#0" expanded="false" />
                 <element signature="class#4435:6314" expanded="false" />
-                <element signature="e#4524#4525#0" expanded="false" />
-                <element signature="e#4546#4547#0" expanded="false" />
                 <element signature="method#getInfoContents#0;class#4435:6314" expanded="false" />
                 <element signature="method#drawMarkers#0;class#MapsActivity#0" expanded="false" />
                 <element signature="method#initializeVariables#0;class#MapsActivity#0" expanded="false" />
@@ -1970,6 +1952,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="C:\GeoBook" value="4493606015582" />
+        <entry key="E:\Projects\GeoBook\GeoBook" value="4493606015582" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2321,8 +2304,8 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/bl/factories/DialogFactory.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/bl/utils/AuthUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/bl/factories/DialogFactory.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -2377,7 +2360,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -2393,7 +2376,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2407,44 +2390,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="GeoBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="GeoBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeoBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeoBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeoBook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GeoBook" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2824,7 +2811,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
@@ -2840,7 +2827,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45100224" sideWeight="0.5293177" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15138593" sideWeight="0.49554566" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15138593" sideWeight="0.49554566" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2890,11 +2877,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="android-dummy://C:/GeoBook//Theme Editor">
-      <provider selected="true" editor-type-id="themeEditor">
-        <state theme-name="AppTheme" module-name="app" proportion="0.67" />
-      </provider>
-    </entry>
+    <entry file="android-dummy://C:/GeoBook//Theme Editor" />
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -3079,7 +3062,6 @@
         <state relative-caret-position="187">
           <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#getRemoveFriendButtonListener#0;class#ListenerFactory#0" expanded="false" />
             <element signature="method#getAddOrRemoveFriendDbEventListener#0;class#ListenerFactory#0" expanded="false" />
             <element signature="method#onCancelled#0;class#1244:2241" expanded="false" />
@@ -3090,23 +3072,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/playground.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/bl/entities/Post.java">
@@ -3115,16 +3097,6 @@
           <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
           <folding>
             <element signature="method#Post#0;class#Post#0" expanded="false" />
-            <element signature="e#398#399#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-            <element signature="e#469#470#0" expanded="false" />
-            <element signature="e#500#501#0" expanded="false" />
-            <element signature="e#521#522#0" expanded="false" />
-            <element signature="e#548#549#0" expanded="false" />
-            <element signature="e#565#566#0" expanded="false" />
-            <element signature="e#592#593#0" expanded="false" />
-            <element signature="e#609#610#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3133,22 +3105,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="74" column="58" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1162#1163#0" expanded="false" />
-            <element signature="e#1194#1195#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1649">
           <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/MapsActivity.java">
@@ -3156,15 +3124,10 @@
         <state relative-caret-position="561">
           <caret line="120" column="66" selection-start-line="120" selection-start-column="66" selection-end-line="120" selection-end-column="66" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#onCreate#0;class#MapsActivity#0" expanded="false" />
             <element signature="method#onRequestPermissionsResult#0;class#MapsActivity#0" expanded="false" />
-            <element signature="e#3656#3657#0" expanded="false" />
-            <element signature="e#3681#3682#0" expanded="false" />
             <element signature="method#drawMap#1;class#MapsActivity#0" expanded="false" />
             <element signature="class#4435:6314" expanded="false" />
-            <element signature="e#4524#4525#0" expanded="false" />
-            <element signature="e#4546#4547#0" expanded="false" />
             <element signature="method#getInfoContents#0;class#4435:6314" expanded="false" />
             <element signature="method#drawMarkers#0;class#MapsActivity#0" expanded="false" />
             <element signature="method#initializeVariables#0;class#MapsActivity#0" expanded="false" />
@@ -3182,34 +3145,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_remove_friend.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_friends.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_friends.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="94" column="8" selection-start-line="94" selection-start-column="8" selection-end-line="94" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_registration.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -3235,7 +3198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3249,35 +3211,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/bl/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="663">
           <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
             <element signature="method#enableImmersiveMode#0;class#Utils#0" expanded="false" />
-            <element signature="e#1546#1738#0" expanded="false" />
-            <element signature="e#1737#1738#0" expanded="false" />
             <element signature="method#setLinearLayoutParam#0;class#Utils#0" expanded="false" />
             <element signature="method#setLinearLayoutParam#1;class#Utils#0" expanded="false" />
             <element signature="method#showToast#0;class#Utils#0" expanded="false" />
             <element signature="method#showToast#1;class#Utils#0" expanded="false" />
             <element signature="method#syncOnTaskCompletion#0;class#Utils#0" expanded="false" />
             <element signature="method#syncOnTaskCompletion#1;class#Utils#0" expanded="false" />
+            <element signature="e#6489#6490#0" expanded="false" />
+            <element signature="e#6526#6527#0" expanded="false" />
+            <element signature="e#6571#6572#0" expanded="false" />
+            <element signature="e#6608#6609#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/katriel/geobook/FriendsActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
+        <state relative-caret-position="1275">
           <caret line="290" column="13" selection-start-line="290" selection-start-column="13" selection-end-line="290" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="method#onCreate#0;class#FriendsActivity#0" expanded="false" />
             <element signature="method#initializeVariables#0;class#FriendsActivity#0" expanded="false" />
             <element signature="method#initializeListeners#0;class#FriendsActivity#0" expanded="false" />
             <element signature="method#createFriendList#0;class#FriendsActivity#0" expanded="false" />
             <element signature="e#4873#4891#0" expanded="false" />
             <element signature="method#createFriendRequestsList#0;class#FriendsActivity#0" expanded="false" />
-            <element signature="e#9835#10803#0" expanded="true" />
             <element signature="method#getUserDetailsFrame#0;class#FriendsActivity#0" expanded="false" />
           </folding>
         </state>

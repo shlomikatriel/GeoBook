@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\94ea49317c4448082ef4ee92c2664fc8526d5ee6\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\shlom\\.android\\build-cache\\94ea49317c4448082ef4ee92c2664fc8526d5ee6\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

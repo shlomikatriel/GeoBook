@@ -12,12 +12,36 @@
         "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_arrow_left.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_appicon.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_arrow_right.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_arrow_right.png"
+    },
+    {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_arrow_down.png",
         "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_arrow_down.png"
     },
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_arrow_down.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-hdpi\\ic_arrow_down.png"
     },
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_appicon.png",

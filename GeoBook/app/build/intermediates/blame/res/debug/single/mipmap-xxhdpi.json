@@ -4,8 +4,32 @@
         "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_right.png"
     },
     {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_left.png",
         "source": "C:\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_left.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_left.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_appicon.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_appicon.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_right.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_arrow_down.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_arrow_down.png"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\Projects\\GeoBook\\GeoBook\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_appicon.png",

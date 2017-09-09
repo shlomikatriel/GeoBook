@@ -1,11 +1,31 @@
 [
     {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
         "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
@@ -14,6 +34,10 @@
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",

@@ -1,10 +1,18 @@
 [
     {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\GeoBook\\GeoBook\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\shlom\\.android\\build-cache\\8284230a8baab3de291be4485359f8becaa80035\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]
